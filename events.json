@@ -1,0 +1,46 @@
+[
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "description": "A curated list of awesome lists.",
+      "language": "Markdown",
+      "stars": 376000
+    },
+    "created_at": "2026-08-18T09:30:00Z"
+  },
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "vitejs/vite",
+      "url": "https://github.com/vitejs/vite",
+      "description": "Next generation frontend tooling.",
+      "language": "TypeScript",
+      "stars": 74500
+    },
+    "created_at": "2026-08-09T14:15:00Z"
+  },
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with large language models locally.",
+      "language": "Go",
+      "stars": 155000
+    },
+    "created_at": "2026-07-27T17:45:00Z"
+  },
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+      "language": "TypeScript",
+      "stars": 110000
+    },
+    "created_at": "2026-07-11T11:00:00Z"
+  }
+]
